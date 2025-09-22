@@ -1,2 +1,2 @@
-# como-ser-un-buen-emprendedor
-apuntes de fol 2
+# formula 1
+historia,curiosidades entre otras cosas 
