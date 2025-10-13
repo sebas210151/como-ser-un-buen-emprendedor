@@ -37,3 +37,7 @@ Además, la F1 es una vitrina para la sostenibilidad y la innovación. A través
 [Más información sobre la Fórmula 1 en la página oficial de la F1](https://www.formula1.com)
 
 ![Imagen de un coche de Fórmula 1 en carrera](https://estaticos-cdn.prensaiberica.es/clip/0cd985c8-78de-4ff9-a438-8820a8e46723_16-9-aspect-ratio_default_0.jpg)
+
+## Conclusión
+
+La Fórmula 1 no es solo un deporte; es una combinación de ciencia, tecnología, emoción y pasión. Ha demostrado ser una plataforma que empuja los límites de lo posible en el automovilismo. Con su enfoque en la sostenibilidad y la expansión global, la F1 está preparada para seguir siendo una de las competiciones más emocionantes e influyentes del mundo durante las próximas décadas.
