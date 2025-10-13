@@ -17,3 +17,11 @@ Durante las décadas, la normativa ha cambiado drásticamente para mejorar la se
 La Fórmula 1 no es solo un espectáculo deportivo, sino también una industria multimillonaria. Grandes marcas como Mercedes-Benz, Ferrari, Red Bull y McLaren invierten cada año millones de dólares para desarrollar los mejores monoplazas posibles.
 
 Además, la F1 es una vitrina para la sostenibilidad y la innovación. A través del uso de combustibles más limpios y motores híbridos, el campeonato ha iniciado una transición hacia un futuro más ecológico. La F1 planea ser carbono neutral para 2030.
+
+### Ideas principales sobre la Fórmula 1
+
+1. Es la categoría más prestigiosa del automovilismo mundial.
+2. Tiene una historia rica con más de 70 años de tradición.
+3. Combina ingeniería de punta con habilidad humana.
+4. Es un motor de innovación para la industria automotriz.
+5. Está en constante evolución para mejorar seguridad y sostenibilidad.
