@@ -4,7 +4,8 @@ historia,curiosidades entre otras cosas
     historia: 
     La Fórmula 1 se creó en 1950 para establecer un campeonato mundial unificado de automovilismo, organizado por la Federación Internacional de Automóvil (FIA), utilizando una "fórmula" técnica de reglas para los vehículos de Gran Premio
 
-    curiosidades: 
+    curiosidades:
+
     - Los monoplazas de F1 están diseñados para ser increíblemente ligeros y aerodinámicos. Pueden acelerar de 0 a 100 km/h y volver a 0 en menos de 5 segundos.
 
     - Desde 2010, está prohibido repostar combustible durante la carrera. Los coches salen con el tanque lleno y deben gestionar el consumo cuidadosamente.
@@ -17,4 +18,5 @@ historia,curiosidades entre otras cosas
 
     Equipos: 
 
-    Ferrari es el mejor equipo en la historia de la formula 1,  
+    Ferrari es el mejor equipo en la historia de la formula 1, han ganado 16 titulos mundiales de constructores, seguida de williams y mclaren con 9 titulos mundiales cada uno
+
