@@ -25,3 +25,15 @@ Además, la F1 es una vitrina para la sostenibilidad y la innovación. A través
 3. Combina ingeniería de punta con habilidad humana.
 4. Es un motor de innovación para la industria automotriz.
 5. Está en constante evolución para mejorar seguridad y sostenibilidad.
+
+### Curiosidades sobre la F1
+
+-  Los motores de F1 pueden alcanzar hasta 15,000 revoluciones por minuto.
+-  Las carreras se celebran en cinco continentes distintos.
+-  El Gran Premio de Mónaco es uno de los más icónicos y difíciles del calendario.
+-  Un coche de F1 puede acelerar de 0 a 100 km/h en menos de 2.5 segundos.
+-  La F1 es vista por más de 1.500 millones de personas al año.
+
+[Más información sobre la Fórmula 1 en la página oficial de la F1](https://www.formula1.com)
+
+![Imagen de un coche de Fórmula 1 en carrera](https://estaticos-cdn.prensaiberica.es/clip/0cd985c8-78de-4ff9-a438-8820a8e46723_16-9-aspect-ratio_default_0.jpg)
